@@ -1,0 +1,17 @@
+# Wanted supporters - read by the Supporters board in the VRChat world.
+# This file is PUBLIC: only put names here that supporters agreed to show.
+#
+# One supporter per line:
+#   Board name | #hexcolour | VRChat display name
+#
+# - Board name: what the board shows (max 48 characters).
+# - Colour: #RRGGBB (or #RRGGBBAA). Leave blank for white.
+# - VRChat display name: exactly as it shows in VRChat. Used for supporter perks,
+#   and so a supporter who also bought in the world store is listed only once.
+#   Leave blank if you don't know it.
+# Lines starting with # are ignored. Changes show in the world within about 10-20 minutes.
+#
+# Example:
+#   Leela | #ce3af0 | Leela
+
+Leela | #ce3af0 |
